@@ -1,0 +1,119 @@
+* {
+  text-decoration: none;
+}
+
+.logo {
+  font-size: 35px;
+  color: black;
+  font-weight: 600;
+
+}
+
+span .logo {
+  color: green;
+}
+
+span {
+  color: aqua;
+}
+
+.nav {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-decoration: none;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.navdiv {
+  font-size: 18px;
+  display: flex; 
+  align-items: center; 
+  justify-content: space-evenly;
+}
+
+.nav a:hover {
+  color: aqua;
+}
+
+#Home {
+  padding-top: 7%;
+  padding-left: 100px;
+}
+
+#About {
+  padding-left: 100px;
+}
+
+#heading-two {
+    padding-left: 100px;
+}
+
+#Contact {
+  padding-left: 100px;
+}
+
+#Education {
+  padding-left: 100px;
+}
+
+#para-one {
+  margin-top: 20px
+ 
+}
+
+#para-two {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+#table-one {
+  margin-left: 100px;
+  padding: 1px;
+}
+
+.container {
+    display: flex; 
+    
+}
+
+.container img {
+  margin-left: 100px;
+  margin-top: -150px;
+  
+}
+
+.container-first {
+    display: inline-flexbox;
+}
+
+.container h2 {
+  padding: 2rem;
+}
+
+#hp {
+  float: right;
+  margin-bottom: 4rem;
+}
+
+.img {
+  margin-bottom: 4rem;
+}
+
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.footer_Container {
+  text-decoration: none;
+  text-align: center;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 50px;
+  font-size: 40px;
+  justify-content: space-around;
+}
+
+#footer{
+  text-align: center;
+}
